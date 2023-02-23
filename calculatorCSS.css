@@ -1,6 +1,6 @@
 body{
     background: url(./325.webp);
-    background-size: contain;
+    background-size: cover;
 }
 #bodyTop-Calculator {
     background-color: grey;
