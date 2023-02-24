@@ -1,4 +1,4 @@
-@media screen {
+@media screen and (max-width: 600px) {
     body {
         background: url(./325.webp);
         background-size: cover;
